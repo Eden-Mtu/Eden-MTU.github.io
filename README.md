@@ -17,5 +17,3 @@ About Me:
 - 👉 [**EMAIL**](mailto:denhartighethan@gmail.com)
 - 👉 [**INSTAGRAM**](https://www.instagram.com/edenhart01/)
 
-
-Ethan_Denhartigh_Resume(1).pdf
