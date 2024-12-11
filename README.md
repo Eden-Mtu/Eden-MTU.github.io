@@ -13,8 +13,9 @@ About Me:
     Dumptrucks
     Offroad trucks
     
-- 👉 [**RESUME**](./Ethan_Denhartigh_Resume(1).pdf)
+- 👉 [**RESUME**](https://github.com/eden-mtu/eden-mtu.github.io/raw/main/Ethan_Denhartigh_Resume%20(1).pdf)
 - 👉 [**EMAIL**](mailto:denhartighethan@gmail.com)
 - 👉 [**INSTAGRAM**](https://www.instagram.com/edenhart01/)
 
 
+Ethan_Denhartigh_Resume(1).pdf
