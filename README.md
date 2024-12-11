@@ -4,8 +4,9 @@
 About Me:
   Mechanical Engineering Student at Michigan Technological University.
   Looking to work in Manufactoring or the Aerospace industry.
-  I collect Music, with 10cc being my favorite band.
-  I grew up in Construciton. I know how to operate the following
+  I collect vinly records, along with other vintage audio equipment.
+  I grew up in Construciton. I've been working since as long as I can remember.
+  I know how to operate the following machines
     Dozer
     Front-end Loader
     Crane
