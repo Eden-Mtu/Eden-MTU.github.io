@@ -13,7 +13,7 @@ About Me:
     Dumptrucks
     Offroad trucks
     
-- 👉 [**RESUME**](denhartighethan@gmail.com)
+- 👉 [**RESUME**](./files/Ethan_Denhartigh_Resume (1).pdf)
 - 👉 [**EMAIL**](denhartighethan@gmail.com)
 - 👉 [**INSTAGRAM**](https://www.instagram.com/edenhart01/)
 - 👉 [**LINKED IN**](denhartighethan@gmail.com)
