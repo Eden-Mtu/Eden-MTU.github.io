@@ -1,5 +1,6 @@
 # [Ethan DenHartigh Portfolio]
-![Alt Text](./images/E5BB9D7A-2405-4836-A6A2-12E9FB21690B.jpeg)
+![Alt Text](./E5BB9D7A-2405-4836-A6A2-12E9FB21690B.jpeg)
+
 About Me:
   Mechanical Engineering Student at Michigan Technological University.
   Looking to work in Manufactoring or the Aerospace industry.
