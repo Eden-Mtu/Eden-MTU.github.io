@@ -14,8 +14,7 @@ About Me:
     Offroad trucks
     
 - 👉 [**RESUME**](./files/Ethan_Denhartigh_Resume (1).pdf)
-- 👉 [**EMAIL**](denhartighethan@gmail.com)
+- 👉 [**EMAIL**](mailto:denhartighethan@gmail.com)
 - 👉 [**INSTAGRAM**](https://www.instagram.com/edenhart01/)
-- 👉 [**LINKED IN**](denhartighethan@gmail.com)
 
 
